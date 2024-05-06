@@ -4,7 +4,7 @@
   height: 500px; /* keep the height fixed height */
   object-fit: cover; /* don't want the image to be distorted */
 }
-body { background-image: url('images/Techbackground.jpg');}
+body { background-image: url('Techbackground.jpg');}
 h1 {text-align: center;}
 h2 {text-align: center; color: #d1e8e7;}
 h7 { font-size: 18px; text-align: center; color: rgb(0, 0, 82);}
